@@ -40,4 +40,5 @@ public class Solution {
             permutation.remove(permutation.size() - 1);
         }
     }
+
 }
