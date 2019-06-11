@@ -1,5 +1,4 @@
-# leetcode1
-# ARTS打卡计划(第二周)
+# ARTS打卡计划(第一周)
 
 - Algorithm。主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）。进行编程训练，如果不训练你看再多的算法书，你依然不会做算法题，看完书后，你需要训练。关于做Leetcode的的优势，你可以看一下我在coolshell上的文章 Leetcode 编程训练 - 酷 壳 - CoolShell（一个小时以内）；
 - Review：主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手。所以，需要你阅读并点评至少一篇英文技术文章，我个人最喜欢去的地方是 [Medium](http://medium.com/)（需要×××，其他的可以社区的官方文档以及论文学习）以及各个公司的技术blog，如Netflix的（30min）；
